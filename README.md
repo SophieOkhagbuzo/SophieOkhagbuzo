@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SophieOkhagbuzo
 - 👀 I’m interested in Mastering Data Analytics
-- 🌱 I’m currently learning a bunch of data analysis tools
-- 💞️ I’m looking to collaborate on Data Visualization Projects
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me on here
+      uwaremeo@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love travelling
 
